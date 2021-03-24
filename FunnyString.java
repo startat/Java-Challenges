@@ -12,7 +12,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class FunnyString {
 
     // Complete the anagram function below.
     static int anagram(String s) {
