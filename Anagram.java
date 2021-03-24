@@ -1,3 +1,5 @@
+//Test if two words are anagram
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -6,7 +8,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class Anagram {
 
     // Complete the anagram function below.
     static int anagram(String s) {
